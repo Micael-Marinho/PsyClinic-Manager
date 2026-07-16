@@ -276,7 +276,6 @@ A interface `Agendavel` define os comportamentos de agendar, cancelar e consulta
 Este repositório foi publicado para fins de **portfólio, aprendizado e consulta acadêmica**. O código pode servir como referência para estudantes que estejam aprendendo Programação Orientada a Objetos em Java.
 
 ---
-=======
 # PsyClinic-Manager
 Sistema desktop de gestão para clínicas psicológicas, desenvolvido em Java, Java Swing e Programação Orientada a Objetos. Projeto criado, executado e testado na IDE Apache NetBeans 24.
->>>>>>> e305c6c602a06c773c3bfa046c1d8a326573e8f8
+
