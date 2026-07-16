@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# 🧠 PsyClinic Manager
+# PsyClinic Manager
 
 ### Sistema de Gestão para Clínica Psicológica
 
@@ -18,7 +18,7 @@ Aplicação desktop para gerenciamento de pacientes, familiares, psicólogos, co
 
 ---
 
-## 📖 Sobre o projeto
+## Sobre o projeto
 
 O **PsyClinic Manager** foi desenvolvido como projeto final da disciplina de **Linguagem de Programação Orientada a Objetos**, no curso de **Análise e Desenvolvimento de Sistemas da Universidade Tecnológica Federal do Paraná — UTFPR**.
 
@@ -30,7 +30,7 @@ O sistema foi estruturado para demonstrar, na prática, os principais fundamento
 
 ---
 
-## 🖥️ Demonstração
+## Demonstração
 
 ### Tela principal
 
@@ -53,7 +53,7 @@ O sistema foi estruturado para demonstrar, na prática, os principais fundamento
 
 ---
 
-## ✨ Funcionalidades
+## Funcionalidades
 
 - Cadastro e gerenciamento de pacientes;
 - Cadastro e gerenciamento de familiares;
@@ -69,7 +69,7 @@ O sistema foi estruturado para demonstrar, na prática, os principais fundamento
 
 ---
 
-## 🧩 Conceitos de POO aplicados
+## Conceitos de POO aplicados
 
 O projeto demonstra a aplicação dos seguintes conteúdos:
 
@@ -90,7 +90,7 @@ O projeto demonstra a aplicação dos seguintes conteúdos:
 
 ---
 
-## 🏗️ Estrutura conceitual
+## Estrutura conceitual
 
 ```mermaid
 classDiagram
@@ -161,7 +161,7 @@ classDiagram
 
 ---
 
-## 📁 Estrutura do repositório
+## Estrutura do repositório
 
 ```text
 PsyClinic-Manager/
@@ -191,7 +191,7 @@ PsyClinic-Manager/
 
 ---
 
-## 🚀 Como executar
+## Como executar
 
 ### Pré-requisitos
 
@@ -234,7 +234,7 @@ java -jar target/psyclinic-manager-1.0.0.jar
 
 ---
 
-## ⚠️ Tratamento de exceções
+## Tratamento de exceções
 
 O sistema utiliza exceções personalizadas para impedir operações inválidas e apresentar mensagens mais claras ao usuário, incluindo:
 
@@ -245,7 +245,7 @@ A interface `Agendavel` define os comportamentos de agendar, cancelar e consulta
 
 ---
 
-## 🛠️ Tecnologias utilizadas
+## Tecnologias utilizadas
 
 - **Java**;
 - **Java Swing**;
@@ -255,7 +255,7 @@ A interface `Agendavel` define os comportamentos de agendar, cancelar e consulta
 
 ---
 
-## 🎓 Contexto acadêmico
+## Contexto acadêmico
 
 - **Curso:** Análise e Desenvolvimento de Sistemas;
 - **Instituição:** Universidade Tecnológica Federal do Paraná — UTFPR;
@@ -265,13 +265,13 @@ A interface `Agendavel` define os comportamentos de agendar, cancelar e consulta
 
 ---
 
-## 👨‍💻 Autor
+## Autor
 
 **Micael Marinho Souza**
 
 ---
 
-## 📚 Finalidade
+## Finalidade
 
 Este repositório foi publicado para fins de **portfólio, aprendizado e consulta acadêmica**. O código pode servir como referência para estudantes que estejam aprendendo Programação Orientada a Objetos em Java.
 
